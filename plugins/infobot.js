@@ -71,7 +71,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 
 ✦━━━━⊰⋆⋆⟬💎𝐁𝐌-𝐁𝐎𝐓💎⟭⋆⋆⊱━━━━✦
 `.trim() 
-  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈*', 'status@broadcast')
+  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*⊱𝐁𝐫𝐞𝐞𝐦 ⋆̤֟♥֟⋆ ̤𝐌𝐚𝐤𝐚𝐛𝐫𝐨⊰*', 'status@broadcast')
 }
 //handler.help = ['ping', 'speed']
 //handler.tags = ['info', 'tools']
